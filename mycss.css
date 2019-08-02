@@ -1,2 +1,12 @@
 
 h1 {color:green; font-size:40px;}
+
+div {
+  text-align: center;
+  border: auto;
+}
+
+img {
+  img-align: center;
+  border: auto;
+}
